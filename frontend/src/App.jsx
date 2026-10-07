@@ -218,7 +218,7 @@ export default function App() {
 
           <div className="footer-right">
             <a
-              href="https://shreyandev.vercel.app"
+              href="https://shreyansr.vercel.app/"
               target="_blank"
               rel="noreferrer"
               className="footer-link"
